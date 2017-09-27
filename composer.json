@@ -1,0 +1,16 @@
+{
+    "name": "klevu/sdec",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirill Levunin",
+            "email": "klevunin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Klev\\Sdec\\": "Sdec"
+        }
+    }
+}
